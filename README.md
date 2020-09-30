@@ -12,7 +12,7 @@ If you need help than I can offer in issues, or you need help with private code,
 
 ## Let's talk
 
-You can follow me on [Twitter](https://twitter.com/vatanay), DMs are open if want to talk 😊 Also you can reach me from [Behance](https://behance.com/vatanay).
+You can follow me on [Twitter](https://twitter.com/vatanay), DMs are open if want to talk 😊 Also you can reach me from [Behance](https://behance.net/vatanay).
 
 ---
 
