@@ -3,14 +3,16 @@
 ### Hi there 👋
 
 
-I'm a web developer based in Turkey, nowadays, I usually work in private repositories for @Arcelik.
+I'm a web developer based in Turkey, nowadays, I usually work in private repositories for @Arcelik. I have worked on integrated campaigns for major clients such as Ford, Arçelik, Yapı Kredi, Turkcell, Allianz, Setur and Çaykur and have been successfully completed many projects during my career.  I've worked in Huawei, Hürriyet, KoçSistem and Ajoen before Arçelik Global.
+
+[My Portfolio](https://vatanay.com)
 
 If you need help than I can offer in issues, or you need help with private code, you can [contact me](mailto:hi@vatanay.com) to discuss paid work.
 
 
 ## Let's talk
 
-You can follow me on [Twitter](https://twitter.com/vatanay), DMs are open if want to talk 😊
+You can follow me on [Twitter](https://twitter.com/vatanay), DMs are open if want to talk 😊 Also you can reach me from [Behance](https://behance.com/vatanay).
 
 ---
 
