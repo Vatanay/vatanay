@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I'm a web developer based in Turkey, nowadays, I usually work in private repositories for @Arcelik. I have worked on integrated campaigns for major clients such as Ford, Arçelik, Yapı Kredi, Turkcell, Allianz, Setur and Çaykur and have been successfully completed many projects during my career.  I've worked in Huawei, Hürriyet, KoçSistem and Ajoen before Arçelik Global.
+I'm a end-to-end designer based in Turkey, nowadays, I usually work in private repositories for @Arcelik. I have worked on integrated campaigns for major clients such as Ford, Arçelik, Yapı Kredi, Turkcell, Allianz, Setur and Çaykur and have been successfully completed many projects during my career.  I've worked in Huawei, Hürriyet, KoçSistem and Ajoen before Arçelik Global.
 
 [My Portfolio](https://vatanay.com)
 
